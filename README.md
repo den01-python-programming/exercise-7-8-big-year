@@ -36,4 +36,4 @@ Hawk (Dorkus Dorkus): 2 observations
 ? **Lopeta**
 ```
 
-**NB** You're free to structure your program the way you want. We only test that the `main` method of the `mainProgram` class works as shown above. You will most likely find it useful to use classes that are descriptive of the problem domain.
+**NB** You're free to structure your program the way you want. There is no automatic testing for this exercise past syntax checking, so you should test your code before committing it. 
